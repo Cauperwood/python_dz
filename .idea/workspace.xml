@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c288ad78-fefc-447d-87d8-edc53c7b4d0c" name="Default Changelist" comment="lesson_5">
-      <change afterPath="$PROJECT_DIR$/Sibirtsev_Dmirty_lesson_6/task_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sibirtsev_Dmirty_lesson_6/task_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sibirtsev_Dmirty_lesson_6/Архив/task_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sibirtsev_Dmirty_lesson_6/Архив/task_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_7/task_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_7/task_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_7/task_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python_dz.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python_dz.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_6/task_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sibirtsev_Dmirty_lesson_6/Архив/task_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_6/task_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sibirtsev_Dmirty_lesson_6/Архив/task_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_6/task_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sibirtsev_Dmirty_lesson_6/task_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_6/task_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sibirtsev_Dmirty_lesson_6/task_4.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
