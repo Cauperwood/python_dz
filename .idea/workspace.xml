@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c288ad78-fefc-447d-87d8-edc53c7b4d0c" name="Default Changelist" comment="lesson_5">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_7/task_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_7/lesson7/task_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_7/task_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_7/lesson7/task_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_7/task_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_7/lesson7/task_3.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +63,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_7/task_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_7/lesson7/task_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -83,7 +84,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_7/task_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_7/lesson7/task_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,7 +126,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_7/task_3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_7/lesson7/task_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
