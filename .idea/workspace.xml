@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c288ad78-fefc-447d-87d8-edc53c7b4d0c" name="Default Changelist" comment="lesson_5">
-      <change beforePath="$PROJECT_DIR$/lesson_7/task_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_7/lesson7/task_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_7/task_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_7/lesson7/task_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_7/task_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_7/lesson7/task_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson7/task_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson7/task_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson7/task_3.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,7 +24,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="lesson_7" />
+        <entry key="$PROJECT_DIR$" value="7_lesson" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -36,6 +38,7 @@
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/lesson_7/lesson7" />
     </key>
   </component>
   <component name="RunDashboard">
